@@ -1,14 +1,4 @@
-# Major Automation Project
-
-## Features
-
-- Automated authentication
-- Daily check-ins
-- Roulette spins
-- Coin holding and swiping
-- Task completion
-- Multi-account support
-- Detailed logging of actions and results
+# Major
 
 ## Prerequisites
 
