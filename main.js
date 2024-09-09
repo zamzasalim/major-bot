@@ -17,6 +17,18 @@ class Major {
       swipeCoin: `${this.baseUrl}/swipe_coin/`,
     };
     this.totalBalance = 0;
+
+
+ process.stdout.write('\x1Bc');
+  console.log('====================================================='.green);
+  console.log('                  AIRDROP ASC                        '.green);
+  console.log('====================================================='.green);
+  console.log('  	  Bot : Cats Gang Auto	                          '.green);
+  console.log('  	  Telegram Channel : @airdropasc		              '.green);
+  console.log('  	  Telegram Group : @autosultan_group	            '.green);
+  console.log('====================================================='.green);
+  console.log();
+    
   }
 
   headers(token = null) {
@@ -44,21 +56,6 @@ class Major {
 
     return headers;
   }
-
- process.stdout.write('\x1Bc');
-  console.log('====================================================='.green);
-  console.log('                  AIRDROP ASC                        '.green);
-  console.log('====================================================='.green);
-  console.log('  	  Bot : Cats Gang Auto	                          '.green);
-  console.log('  	  Telegram Channel : @airdropasc		              '.green);
-  console.log('  	  Telegram Group : @autosultan_group	            '.green);
-  console.log('====================================================='.green);
-  console.log();
-
-
-
-
-
 
   log(msg, type = "info") {
     const colorMap = {
