@@ -10,8 +10,12 @@
 
    ```
    git clone https://github.com/zamzasalim/major-bot.git
-   major-bot
    ```
+
+   ```
+   cd major-bot
+   ```
+
 
 2. Install :
 
